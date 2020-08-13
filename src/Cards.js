@@ -35,8 +35,8 @@ class Cards extends React.Component {
             <Card style={{ width: "18rem" }}>
               <Card.Body>
                 <Card.Title>Aaron Osborne</Card.Title>
-                <Card.Text>Software Engineer who is a Michigan fan</Card.Text>
-                <Button href="https://github.com/osbornea" target="_blank">
+                <Card.Text>Software Engineer and Michigan fan</Card.Text>
+                <Button href="https://github.com/aaronosb" target="_blank">
                   Check out my GitHub Profile
                 </Button>
               </Card.Body>
