@@ -34,6 +34,25 @@ class Cards extends React.Component {
             </Card>
             <Card style={{ width: "18rem" }}>
               <Card.Body>
+                <Card.Title>Raziel BenReuben</Card.Title>
+                <Card.Text>Junior rom Manhattan College</Card.Text>
+                <Card.Text>This is my first time using React!</Card.Text>
+                <Button href="https://github.com/rbenreuben" target="_blank">
+                  Check out my GitHub Profile
+                </Button>
+              </Card.Body>
+            </Card>
+            <Card style={{ width: "18rem" }}>
+              <Card.Body>
+                <Card.Title>Dzenana Svraka</Card.Title>
+                <Card.Text>
+                  Software Engineer from University of Michigan
+                </Card.Text>
+                <Card.Text>This is just a text card!</Card.Text>
+              </Card.Body>
+            </Card>
+            <Card style={{ width: "18rem" }}>
+              <Card.Body>
                 <Card.Title>Aaron Osborne</Card.Title>
                 <Card.Text>Software Engineer and Michigan fan</Card.Text>
                 <Button href="https://github.com/aaronosb" target="_blank">
